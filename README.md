@@ -1,4 +1,4 @@
-# MHARVELLOUS Beamer
+# MHARVELLOUS Beamer TLQ
 A simple presentation template.
 
 ## Main Style
@@ -13,10 +13,10 @@ To clone and run this beamer, follow command line above:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/mhar-vell/mharvellous-beamer
+$ git clone https://github.com/mhar-vell/mharvellous-beamer_tlq
 
 # Go into the repository
-$ cd mharvellous-beamer
+$ cd mharvellous-beamer_tlq
 
 # Open on VS Code
 $ code .
